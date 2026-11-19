@@ -239,7 +239,7 @@ This system can be useful for:
 
 # 👩‍💻 Author
 
-**Sanganna Jalde**  
+**Vivek Gaikwad**  
 Aspiring Data Scientist | Machine Learning Enthusiast 
 
 ---
